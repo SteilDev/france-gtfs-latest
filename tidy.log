@@ -56,15 +56,15 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_agglopolys-offre-theorique-mobilite-reseau-urbain-azalys-de-blois.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_agregat-des-reseaux-urbains-et-interurbains-en-region-grand-est.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-1 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -524 stops [-1.31%], -0 shapes [-0.00%], -1 services [-0.06%], -16 routes [-0.59%], -3 agencies [-5.77%], -467 transfers [-1.17%])
-Reclustering stops... done. (-279 clusters) [-1.91%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -65 stops [-0.16%], -0 shapes [-0.00%], -1 services [-0.06%], -5 routes [-0.19%], -3 agencies [-5.77%], -122 transfers [-0.31%])
+Reclustering stops... done. (-303 clusters) [-2.04%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_agregat-des-reseaux-urbains-et-interurbains-en-region-grand-est.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_agregat-oura.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -47 stops [-0.21%], -0 shapes [-0.00%], -1 services [-0.21%], -12 routes [-0.93%], -7 agencies [-16.28%], -17 transfers [-0.06%])
-Reclustering stops... done. (-8775 clusters) [-39.50%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -503 stops [-2.21%], -0 shapes [-0.00%], -8 services [-1.62%], -60 routes [-4.49%], -7 agencies [-16.28%], -528 transfers [-1.90%])
+Reclustering stops... done. (-8776 clusters) [-39.50%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_agregat-oura.gtfs.zip'... done.
@@ -78,14 +78,14 @@ Outputting GTFS feed to 'fr_ametis--80223.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_ametis--80705.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-108 clusters) [-14.57%]
+Reclustering stops... done. (-107 clusters) [-14.44%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_ametis--80705.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_ametis.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-108 clusters) [-14.57%]
+Reclustering stops... done. (-107 clusters) [-14.44%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_ametis.gtfs.zip'... done.
@@ -99,7 +99,7 @@ Outputting GTFS feed to 'fr_andemu-gtfs-2025.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_angers-loire-metropole-reseau-irigo-gtfs-gtfs-rt-siri.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-775 clusters) [-43.44%]
+Reclustering stops... done. (-776 clusters) [-43.50%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_angers-loire-metropole-reseau-irigo-gtfs-gtfs-rt-siri.gtfs.zip'... done.
@@ -147,15 +147,15 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-circuit-de-la-lignes-yeu-continent-gtfs.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-horaires-et-circuits-des-lignes-de-transports-aleop-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -3832 stops [-38.33%], -0 shapes [-0.00%], -322 services [-26.81%], -0 routes [-0.00%], -0 agencies [-0.00%], -19 transfers [-15.32%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -3832 stops [-38.33%], -0 shapes [-0.00%], -330 services [-27.30%], -0 routes [-0.00%], -0 agencies [-0.00%], -19 transfers [-15.32%])
 Reclustering stops... done. (-3 clusters) [-0.14%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-circuits-des-lignes-de-transports-aleop-1.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-horaires-et-circuits-des-lignes-de-transports-en-commun-en-pays-de-la-loire-gtfs-destineo-reseaux-aom-aleop-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -186 stops [-0.85%], -0 shapes [-0.00%], -20 services [-1.48%], -0 routes [-0.00%], -0 agencies [-0.00%], -5 transfers [-0.43%])
-Reclustering stops... done. (-820 clusters) [-10.57%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -186 stops [-0.85%], -0 shapes [-0.00%], -19 services [-1.41%], -0 routes [-0.00%], -0 agencies [-0.00%], -5 transfers [-0.43%])
+Reclustering stops... done. (-821 clusters) [-10.58%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-circuits-des-lignes-de-transports-en-commun-en-pays-de-la-loire-gtfs-destineo-reseaux-aom-aleop-1.gtfs.zip'... done.
@@ -232,7 +232,7 @@ Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-des-reseaux-n
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-gir-nva-m-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.11%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -2 stops [-0.04%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-343 clusters) [-14.41%]
+Reclustering stops... done. (-344 clusters) [-14.45%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-gir-nva-m-1.gtfs.zip'... done.
@@ -343,7 +343,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vie-nva-m-1.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-des-reseaux-nva-mobilite-agreges-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-5 trips [-0.00%])
-Removing unreferenced entries... done. (-13 trips [-0.01%], -635 stops [-1.48%], -0 shapes [-0.00%], -1 services [-0.08%], -12 routes [-0.71%], -0 agencies [-0.00%], -12 transfers [-0.30%])
+Removing unreferenced entries... done. (-13 trips [-0.01%], -642 stops [-1.49%], -0 shapes [-0.00%], -1 services [-0.08%], -12 routes [-0.71%], -0 agencies [-0.00%], -12 transfers [-0.30%])
 Reclustering stops... done. (-1090 clusters) [-6.82%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -365,7 +365,7 @@ Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-du-reseau-rou
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81821.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -13 stops [-0.97%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -19 transfers [-2.37%])
-Reclustering stops... done. (-6 clusters) [-1.30%]
+Reclustering stops... done. (-7 clusters) [-1.51%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81821.gtfs.zip'... done.
@@ -393,7 +393,7 @@ Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-du-reseau-sta
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-02-aisne.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.22%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -14 stops [-1.22%], -0 shapes [-0.00%], -3 services [-2.88%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-113 clusters) [-9.97%]
+Reclustering stops... done. (-112 clusters) [-9.89%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-02-aisne.gtfs.zip'... done.
@@ -414,21 +414,21 @@ Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-resea
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-02-aisne.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -14 stops [-0.75%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-155 clusters) [-8.33%]
+Reclustering stops... done. (-156 clusters) [-8.39%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-02-aisne.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-62-pas-de-calais.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-103 clusters) [-4.08%]
+Reclustering stops... done. (-102 clusters) [-4.04%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-62-pas-de-calais.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-80-somme.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -1 stops [-0.05%], -0 shapes [-0.00%], -0 services [-0.00%], -7 routes [-0.37%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-167 clusters) [-8.80%]
+Reclustering stops... done. (-165 clusters) [-8.69%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-80-somme.gtfs.zip'... done.
@@ -462,8 +462,8 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81832.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_arrets-itineraires-et-horaires-theoriques-des-reseaux-de-transport-des-membres-de-jvmalin.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-3 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -260 stops [-1.49%], -0 shapes [-0.00%], -1 services [-0.39%], -14 routes [-2.11%], -0 agencies [-0.00%], -72 transfers [-0.44%])
-Reclustering stops... done. (-554 clusters) [-8.71%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -257 stops [-1.46%], -0 shapes [-0.00%], -1 services [-0.39%], -14 routes [-2.09%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Reclustering stops... done. (-560 clusters) [-8.75%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_arrets-itineraires-et-horaires-theoriques-des-reseaux-de-transport-des-membres-de-jvmalin.gtfs.zip'... done.
@@ -498,14 +498,14 @@ Outputting GTFS feed to 'fr_bagnoles-de-lorne.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_base-de-donnees-multimodale-des-reseaux-de-transport-public-normands.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-1111 trips [-1.92%], -552 stops [-4.28%], -0 shapes [-0.00%], -6 services [-1.12%], -24 routes [-4.25%], -5 agencies [-16.13%], -0 transfers [-0.00%])
-Reclustering stops... done. (-5257 clusters) [-42.59%]
+Reclustering stops... done. (-5261 clusters) [-42.62%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_base-de-donnees-multimodale-des-reseaux-de-transport-public-normands.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_base-de-donnees-multimodale-transports-publics-en-bretagne-korrigo-gtfs.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.00%])
-Removing unreferenced entries... done. (-29 trips [-0.03%], -10 stops [-0.06%], -0 shapes [-0.00%], -0 services [-0.00%], -12 routes [-1.02%], -2 agencies [-6.25%], -22 transfers [-0.09%])
-Reclustering stops... done. (-6911 clusters) [-42.44%]
+Removing unreferenced entries... done. (-29 trips [-0.03%], -8 stops [-0.05%], -0 shapes [-0.00%], -0 services [-0.00%], -12 routes [-1.02%], -2 agencies [-6.25%], -9 transfers [-0.04%])
+Reclustering stops... done. (-6915 clusters) [-42.46%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_base-de-donnees-multimodale-transports-publics-en-bretagne-korrigo-gtfs.gtfs.zip'... done.
@@ -617,14 +617,14 @@ Outputting GTFS feed to 'fr_bybus-bayeux-intercom.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_caen-la-mer-reseau-twisto-gtfs-siri-2.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-33 clusters) [-4.27%]
+Reclustering stops... done. (-32 clusters) [-4.14%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_caen-la-mer-reseau-twisto-gtfs-siri-2.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_caen-la-mer-reseau-twisto-gtfs-siri.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-33 clusters) [-4.27%]
+Reclustering stops... done. (-32 clusters) [-4.14%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_caen-la-mer-reseau-twisto-gtfs-siri.gtfs.zip'... done.
@@ -729,7 +729,7 @@ Outputting GTFS feed to 'fr_donnees-de-transport-en-commun-reseau-altigo-communa
 Parsing GTFS feed in 'fr_donnees-du-reseau-alterneo.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -35 stops [-0.96%], -0 shapes [-0.00%], -0 services [-0.00%], -11 routes [-16.18%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-10 clusters) [-0.80%]
+Reclustering stops... done. (-9 clusters) [-0.72%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_donnees-du-reseau-alterneo.gtfs.zip'... done.
@@ -777,7 +777,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_donnees-statiques-et-dynamiques-du-reseau-de-transport-lignes-dazur.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1 services [-2.56%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Reclustering stops... done. (-48 clusters) [-2.87%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -785,7 +785,7 @@ Outputting GTFS feed to 'fr_donnees-statiques-et-dynamiques-du-reseau-de-transpo
 Parsing GTFS feed in 'fr_donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -1 agencies [-24.99%], -0 transfers [-0.00%])
-Reclustering stops... done. (-175 clusters) [-11.78%]
+Reclustering stops... done. (-174 clusters) [-11.71%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip'... done.
@@ -981,7 +981,7 @@ Outputting GTFS feed to 'fr_donnees-theoriques-et-temps-reel.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_donnees-theoriques-gtfs-et-temps-reel-siri-lite-du-reseau-cts.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-645 clusters) [-47.74%]
+Reclustering stops... done. (-646 clusters) [-47.82%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_donnees-theoriques-gtfs-et-temps-reel-siri-lite-du-reseau-cts.gtfs.zip'... done.
@@ -1015,7 +1015,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_elios-transports-urbains-du-grand-villeneuvois.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_eurostar-gtfs-plan-de-transport-et-temps-reel.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -96 stops [-54.86%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -1 agencies [-33.32%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -95 stops [-54.29%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -1 agencies [-33.32%], -0 transfers [-0.00%])
 Reclustering stops... done. (-0 clusters) [-0.00%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -1030,7 +1030,7 @@ Outputting GTFS feed to 'fr_eveole-douai-reseau-bus-du-syndicat-mixte-des-transp
 Parsing GTFS feed in 'fr_evolity-horaires-theoriques-de-transport-public.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -2 stops [-0.30%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-202 clusters) [-30.42%]
+Reclustering stops... done. (-201 clusters) [-30.27%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_evolity-horaires-theoriques-de-transport-public.gtfs.zip'... done.
@@ -1058,7 +1058,7 @@ Outputting GTFS feed to 'fr_fichier-des-donnees-theoriques-du-reseau-scolaris-au
 Parsing GTFS feed in 'fr_fichiers-gtfs-eurometropole-de-metz.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-16 clusters) [-2.79%]
+Reclustering stops... done. (-15 clusters) [-2.62%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_fichiers-gtfs-eurometropole-de-metz.gtfs.zip'... done.
@@ -1071,7 +1071,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_ficibus-fecamp-caux-littoral.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1 services [-6.25%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1 services [-5.88%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Reclustering stops... done. (-0 clusters) [-0.00%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -1373,7 +1373,7 @@ Outputting GTFS feed to 'fr_gtfs-de-la-societe-de-transport-urbain-du-grand-mont
 Parsing GTFS feed in 'fr_gtfs-diviamobilites.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1 services [-3.57%], -2 routes [-3.45%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-404 clusters) [-36.20%]
+Reclustering stops... done. (-406 clusters) [-36.38%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_gtfs-diviamobilites.gtfs.zip'... done.
@@ -1408,7 +1408,7 @@ Outputting GTFS feed to 'fr_gtfs-du-reseau-maritime-de-martinique.gtfs.zip'... d
 Parsing GTFS feed in 'fr_gtfs-du-transport-scolaire-en-martinique.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.12%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -360 stops [-7.99%], -0 shapes [-0.00%], -0 services [-0.00%], -10 routes [-1.81%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-157 clusters) [-7.66%]
+Reclustering stops... done. (-158 clusters) [-7.71%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_gtfs-du-transport-scolaire-en-martinique.gtfs.zip'... done.
@@ -1429,7 +1429,7 @@ Outputting GTFS feed to 'fr_gtfs-move-vendome.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_gtfs-netex-et-gtfs-rt-reseau-tao-orleans-metropole.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-370 clusters) [-27.25%]
+Reclustering stops... done. (-368 clusters) [-27.10%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_gtfs-netex-et-gtfs-rt-reseau-tao-orleans-metropole.gtfs.zip'... done.
@@ -1499,7 +1499,7 @@ Outputting GTFS feed to 'fr_gtfs-sankeo.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_gtfs-tadao.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1247 clusters) [-37.53%]
+Reclustering stops... done. (-1248 clusters) [-37.56%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_gtfs-tadao.gtfs.zip'... done.
@@ -1569,7 +1569,7 @@ Outputting GTFS feed to 'fr_gtfs-urbain-de-la-zone-nord-cap-nord.gtfs.zip'... do
 Parsing GTFS feed in 'fr_gtfs-urbain-de-la-zone-sud.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -1 routes [-1.12%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-185 clusters) [-21.69%]
+Reclustering stops... done. (-184 clusters) [-21.57%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_gtfs-urbain-de-la-zone-sud.gtfs.zip'... done.
@@ -1610,7 +1610,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_horaires-des-bacs-de-loire-en-loire-atlantique-gtfs--83727.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_horaires-des-lignes-transilien-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-12 trips [-0.03%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -5460 transfers [-69.86%])
+Removing unreferenced entries... done. (-11 trips [-0.03%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -5582 transfers [-69.74%])
 Reclustering stops... done. (-0 clusters) [-0.00%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -1639,7 +1639,7 @@ Outputting GTFS feed to 'fr_horaires-du-reseau-de-bus-intercom-3.gtfs.zip'... do
 Parsing GTFS feed in 'fr_horaires-du-reseau-stas.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-752 clusters) [-32.97%]
+Reclustering stops... done. (-750 clusters) [-32.88%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_horaires-du-reseau-stas.gtfs.zip'... done.
@@ -1660,7 +1660,7 @@ Outputting GTFS feed to 'fr_horaires-montelibus-2025-2026.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_horaires-reseau-zest.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -23 stops [-3.48%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-27 clusters) [-4.24%]
+Reclustering stops... done. (-28 clusters) [-4.40%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_horaires-reseau-zest.gtfs.zip'... done.
@@ -1793,7 +1793,7 @@ Outputting GTFS feed to 'fr_horaires-theoriques-du-telepherique-de-la-bastille.g
 Parsing GTFS feed in 'fr_horaires-theoriques-et-du-reseau-de-transports-qub-transports-urbains-de-quimper-bretagne-occidentale.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-298 clusters) [-30.53%]
+Reclustering stops... done. (-297 clusters) [-30.43%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_horaires-theoriques-et-du-reseau-de-transports-qub-transports-urbains-de-quimper-bretagne-occidentale.gtfs.zip'... done.
@@ -1946,7 +1946,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_horaires-theoriques-et-temps-reel-du-reseau-transports-urbains-mendois-mende-gtfs-gtfs-rt.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_horaires-theoriques-et-temps-reel-gtfs-gtfs-rt-du-reseau-palmbus-cannes-pays-de-lerins.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -3 routes [-5.77%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -1 routes [-1.92%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Reclustering stops... done. (-3 clusters) [-0.52%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -2058,15 +2058,15 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-1 trips [-0.03%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -149 stops [-3.73%], -0 shapes [-0.00%], -1 services [-0.58%], -6 routes [-4.20%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1332 clusters) [-34.64%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -149 stops [-3.73%], -0 shapes [-0.00%], -1 services [-0.57%], -6 routes [-4.20%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Reclustering stops... done. (-1335 clusters) [-34.72%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.06%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -20 stops [-0.32%], -0 shapes [-0.00%], -0 services [-0.00%], -2 routes [-0.38%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1812 clusters) [-29.28%]
+Reclustering stops... done. (-1813 clusters) [-29.30%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3.gtfs.zip'... done.
@@ -2101,7 +2101,7 @@ Outputting GTFS feed to 'fr_lineotim-morlaix-communaute.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_lyon-tcl.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-372 trips [-0.38%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-246 clusters) [-5.39%]
+Reclustering stops... done. (-247 clusters) [-5.41%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_lyon-tcl.gtfs.zip'... done.
@@ -2115,7 +2115,7 @@ Outputting GTFS feed to 'fr_meribus-hiver.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_mobilite-offre-de-transport-du-reseau-bus-gtfs-gtfs-rt.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-5 clusters) [-0.56%]
+Reclustering stops... done. (-6 clusters) [-0.68%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_mobilite-offre-de-transport-du-reseau-bus-gtfs-gtfs-rt.gtfs.zip'... done.
@@ -2206,7 +2206,7 @@ Outputting GTFS feed to 'fr_noirmoutier-gratibus-gtfs-gtfs-rt.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_nomad-car-region-normandie.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1088 clusters) [-28.47%]
+Reclustering stops... done. (-1089 clusters) [-28.49%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_nomad-car-region-normandie.gtfs.zip'... done.
@@ -2248,7 +2248,7 @@ Outputting GTFS feed to 'fr_offre-de-transport-cc-montesquieu.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_offre-de-transport-coban.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-50 clusters) [-18.66%]
+Reclustering stops... done. (-51 clusters) [-19.03%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transport-coban.gtfs.zip'... done.
@@ -2290,7 +2290,7 @@ Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-de-la-communaute-de-com
 Parsing GTFS feed in 'fr_offre-de-transport-du-reseau-de-laval-agglomeration-gtfs.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-250 clusters) [-34.77%]
+Reclustering stops... done. (-249 clusters) [-34.63%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-de-laval-agglomeration-gtfs.gtfs.zip'... done.
@@ -2332,7 +2332,7 @@ Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-fluo-grand-est-haut-rhi
 Parsing GTFS feed in 'fr_offre-de-transport-du-reseau-fluo-grand-est-haute-marne-52.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-9 clusters) [-1.62%]
+Reclustering stops... done. (-8 clusters) [-1.44%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-fluo-grand-est-haute-marne-52.gtfs.zip'... done.
@@ -2402,7 +2402,7 @@ Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-rivconnect-communaute-d
 Parsing GTFS feed in 'fr_offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-417 clusters) [-36.74%]
+Reclustering stops... done. (-421 clusters) [-37.09%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt.gtfs.zip'... done.
@@ -2423,7 +2423,7 @@ Outputting GTFS feed to 'fr_offre-de-transport-du-reseau-trema-gtfs.gtfs.zip'...
 Parsing GTFS feed in 'fr_offre-de-transport-solea-et-tram-train-en-format-gtfs-1.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-263 clusters) [-34.16%]
+Reclustering stops... done. (-262 clusters) [-34.03%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transport-solea-et-tram-train-en-format-gtfs-1.gtfs.zip'... done.
@@ -2499,8 +2499,8 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-de-transports-urbain-du-reseau-amelys-gtfs.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_offre-du-reseau-de-transport-interurbain-fluo-grand-est.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-1 trips [-0.01%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -490 stops [-3.09%], -0 shapes [-0.00%], -0 services [-0.00%], -12 routes [-0.74%], -0 agencies [-0.00%], -248 transfers [-7.01%])
-Reclustering stops... done. (-78 clusters) [-1.12%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -13 stops [-0.08%], -0 shapes [-0.00%], -0 services [-0.00%], -1 routes [-0.06%], -0 agencies [-0.00%], -4 transfers [-0.11%])
+Reclustering stops... done. (-100 clusters) [-1.39%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offre-du-reseau-de-transport-interurbain-fluo-grand-est.gtfs.zip'... done.
@@ -2521,7 +2521,7 @@ Outputting GTFS feed to 'fr_offre-transport-en-commun-du-reseau-transpor-gtfs.gt
 Parsing GTFS feed in 'fr_offres-de-services-bus-tram-et-scolaire-au-format-gtfs-netex-gtfs-rt-siri-lite.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -1235 stops [-16.88%], -0 shapes [-0.00%], -0 services [-0.00%], -71 routes [-35.15%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-174 clusters) [-8.04%]
+Reclustering stops... done. (-176 clusters) [-8.14%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_offres-de-services-bus-tram-et-scolaire-au-format-gtfs-netex-gtfs-rt-siri-lite.gtfs.zip'... done.
@@ -2787,7 +2787,7 @@ Outputting GTFS feed to 'fr_reseau-interurbain-cars-region-loire-42.gtfs.zip'...
 Parsing GTFS feed in 'fr_reseau-interurbain-cars-region-puy-de-dome-63.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-49 clusters) [-13.88%]
+Reclustering stops... done. (-47 clusters) [-13.31%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseau-interurbain-cars-region-puy-de-dome-63.gtfs.zip'... done.
@@ -2829,7 +2829,7 @@ Outputting GTFS feed to 'fr_reseau-lio-occitanie.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_reseau-lva.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-405 clusters) [-40.26%]
+Reclustering stops... done. (-406 clusters) [-40.36%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseau-lva.gtfs.zip'... done.
@@ -2933,7 +2933,7 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseau-urbain-distribus.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_reseau-urbain-et-interurbain-dile-de-france-mobilites.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-12 trips [-0.00%], -26 stops [-0.05%], -0 shapes [-0.00%], -0 services [-0.00%], -6 routes [-0.30%], -0 agencies [-0.00%], -5734 transfers [-2.80%])
+Removing unreferenced entries... done. (-11 trips [-0.00%], -26 stops [-0.05%], -0 shapes [-0.00%], -0 services [-0.00%], -6 routes [-0.30%], -0 agencies [-0.00%], -5972 transfers [-2.91%])
 Reclustering stops... done. (-1 clusters) [-0.01%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
@@ -2941,7 +2941,7 @@ Outputting GTFS feed to 'fr_reseau-urbain-et-interurbain-dile-de-france-mobilite
 Parsing GTFS feed in 'fr_reseau-urbain-glazgo.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1 clusters) [-0.58%]
+Reclustering stops... done. (-0 clusters) [-0.00%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseau-urbain-glazgo.gtfs.zip'... done.
@@ -3102,7 +3102,7 @@ Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix
 Parsing GTFS feed in 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39592.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -64 stops [-7.12%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-166 clusters) [-29.64%]
+Reclustering stops... done. (-167 clusters) [-29.82%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39592.gtfs.zip'... done.
@@ -3164,15 +3164,15 @@ Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39601.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39602.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -19 stops [-1.43%], -0 shapes [-0.00%], -0 services [-0.00%], -1 routes [-2.33%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-222 clusters) [-25.90%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -27 stops [-1.85%], -0 shapes [-0.00%], -33 services [-24.81%], -1 routes [-2.27%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Reclustering stops... done. (-238 clusters) [-26.04%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39602.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39603.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -6 routes [-8.57%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-212 clusters) [-23.85%]
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Reclustering stops... done. (-209 clusters) [-23.67%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--39603.gtfs.zip'... done.
@@ -3184,7 +3184,7 @@ Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--80736.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone--81969.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
-Removing trips travelling too fast...done. (-124 trips [-0.06%])
+Removing trips travelling too fast...done. (-144 trips [-0.07%])
 Removing unreferenced entries... done. (-9 trips [-0.00%], -142 stops [-0.87%], -0 shapes [-0.00%], -17 services [-1.03%], -18 routes [-2.32%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Reclustering stops... done. (-136 clusters) [-2.48%]
 Removing service duplicates... done. (-0 services [-0.00%])
@@ -3193,7 +3193,7 @@ Outputting GTFS feed to 'fr_reseaux-de-transports-en-commun-de-la-metropole-daix
 Parsing GTFS feed in 'fr_reseauzoom-horaires-theoriques.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -35 stops [-4.66%], -0 shapes [-0.00%], -1 services [-2.86%], -4 routes [-9.76%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-283 clusters) [-39.53%]
+Reclustering stops... done. (-282 clusters) [-39.39%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_reseauzoom-horaires-theoriques.gtfs.zip'... done.
@@ -3319,7 +3319,7 @@ Outputting GTFS feed to 'fr_tico-bus-horaires-theoriques-du-reseau-de-transport-
 Parsing GTFS feed in 'fr_tilt-lannion-tregor-communaute.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-126 clusters) [-41.86%]
+Reclustering stops... done. (-125 clusters) [-41.53%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_tilt-lannion-tregor-communaute.gtfs.zip'... done.
@@ -3480,21 +3480,21 @@ Outputting GTFS feed to 'fr_uba-horaires-navettes-maritimes.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--83281.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-747 clusters) [-42.39%]
+Reclustering stops... done. (-751 clusters) [-42.62%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--83281.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--83282.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-748 clusters) [-42.45%]
+Reclustering stops... done. (-750 clusters) [-42.57%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--83282.gtfs.zip'... done.
 Parsing GTFS feed in 'fr_versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-149 clusters) [-26.65%]
+Reclustering stops... done. (-150 clusters) [-26.83%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'fr_versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs.gtfs.zip'... done.
